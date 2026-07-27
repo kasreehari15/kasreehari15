@@ -41,7 +41,7 @@
 ## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,github" />
 </p>
 
 ### 📚 Currently Learning
