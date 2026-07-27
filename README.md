@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
